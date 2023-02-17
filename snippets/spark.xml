@@ -166,6 +166,8 @@
   <project path="external/Apps" name="external_Apps" remote="spark" />
   <project path="external/tinycompress" name="external_tinycompress" remote="spark" />
   <project path="external/Camera" name="GrapheneOS/platform_external_Camera" remote="github" revision="13"/>
+  <project path="external/dwarves" name="platform/external/dwarves" remote="aosp" revision="3c8f7e8b2cf7ff902b71c42d00fda30f30114b07" />
+  <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" remote="aosp" revision="refs/tags/android-13.0.0_r0.49" />
   <project path="external/faceunlock" name="external_faceunlock" remote="spark-gitlab" />  
   <project path="external/colorkt" name="external_colorkt" remote="spark" />
   <project path="external/themelib" name="external_themelib" remote="spark" />
